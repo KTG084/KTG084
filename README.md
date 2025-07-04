@@ -72,7 +72,6 @@
 
 ### 🚀 Fun Fact
 > "Give me the Docs, and I'll deliver the Product" - My developer mantra  
-> Currently obsessed with creating immersive 3D web experiences with React Three Fiber!
 
 ---
 
