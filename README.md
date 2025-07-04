@@ -17,6 +17,13 @@
 
 ### 🛠️ Tech Stack
 
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 **Core Technologies:**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -28,9 +35,10 @@
 
 **Backend & Database:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NextAuth](https://img.shields.io/badge/Next_Auth-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
 
 **Animation & 3D:**  
@@ -43,19 +51,31 @@
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 ![Lucide](https://img.shields.io/badge/Lucide-FF6C37?style=for-the-badge&logo=lucide&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=ui&logoColor=white)
 ![Sonner](https://img.shields.io/badge/Sonner-FF4088?style=for-the-badge&logo=sonner&logoColor=white)
 
-**Real-time Communication:**  
+**Real-time & Media:**  
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Stream Video](https://img.shields.io/badge/Stream_Video-0052CC?style=for-the-badge&logo=stream&logoColor=white)
 ![Vapi AI](https://img.shields.io/badge/Vapi_AI-FF6C37?style=for-the-badge&logo=openai&logoColor=white)
 
-**Tools & Utilities:**  
+**Cloud, DevOps & Utilities:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Turbopack](https://img.shields.io/badge/Turbopack-000000?style=for-the-badge&logo=turborepo&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=webhooks&logoColor=white)
+
+**Image & Media Tools:**  
+![ImageKit](https://img.shields.io/badge/ImageKit-00C2FF?style=for-the-badge&logo=imagekit&logoColor=white)
+
+**Platforms:**  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ---
-
 
 ### 📊 GitHub Stats
 
