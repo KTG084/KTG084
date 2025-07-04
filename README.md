@@ -56,19 +56,6 @@
 
 ---
 
-### 🎯 Current Project Stack
-Building modern web applications with:
-- **Next.js 15** with Turbopack for blazing fast development
-- **React 19** with Server Components architecture
-- **NextAuth.js** for authentication with Prisma adapter
-- **Stream Video SDK** for real-time video communication
-- **Vapi AI** for conversational AI integration
-- **Framer Motion & Three.js** for immersive animations
-- **Radix UI** for accessible primitives
-- **Zustand** for state management
-- **Zod** for type-safe validation
-
----
 
 ### 📊 GitHub Stats
 
