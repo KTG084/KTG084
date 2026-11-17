@@ -1,8 +1,8 @@
 <!-- ============================ HEADER ============================ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:312e81,100:0e7490&height=240&section=header&text=Hello%20World!%20%F0%9F%91%8B%20I'm%20KTG&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Data%20%26%20AI%20Engineer&descSize=18&descAlignY=60&descColor=7dd3fc" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0e7490&height=240&section=header&text=Hello%20World!%20%F0%9F%91%8B%20I%27m%20KTG&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Data%20and%20AI%20Engineer&descSize=18&descAlignY=60&descColor=7dd3fc" alt="Header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=40&lines=Next.js+%C2%B7+TypeScript+%C2%B7+React;Building+RAG+%26+LLM-powered+apps;Data+Warehousing+%C2%B7+SQL+%C2%B7+Power+BI;ML+Pipelines+with+XGBoost+%26+FastAPI;Interactive+3D+web+with+Three.js+%26+GSAP" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=40&lines=Next.js+%C2%B7+TypeScript+%C2%B7+React;Building+RAG+and+LLM-powered+apps;Data+Warehousing+%C2%B7+SQL+%C2%B7+Power+BI;ML+Pipelines+with+XGBoost+and+FastAPI;Interactive+3D+web+with+Three.js+and+GSAP" alt="Typing animation"/>
 </p>
 
 <!-- logos only, intentionally not linked -->
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 <!-- ============================ ABOUT ============================ -->
 <h2 align="center">👨‍💻 About Me</h2>
@@ -123,7 +123,7 @@
   <code>EDA</code> <code>Data Visualization</code> <code>KPI Analysis</code> <code>RFM Analysis</code> <code>CLV</code> <code>Cohort Analysis</code> <code>Customer Segmentation</code> <code>Statistical Analysis</code> <code>Regression</code> <code>Supervised &amp; Unsupervised Learning</code> <code>Deep Learning</code> <code>Feature Engineering</code> <code>Data Modeling</code> <code>Data Cleaning</code> <code>RAG</code>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 <!-- ============================ PROJECTS ============================ -->
 <h2 align="center">🚀 Featured Projects</h2>
@@ -168,7 +168,7 @@
   </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 <!-- ============================ STATS ============================ -->
 <h2 align="center">📊 GitHub Stats</h2>
@@ -186,7 +186,7 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ktg084&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 <!-- ============================ FUN FACT ============================ -->
 <h2 align="center">💬 Fun Fact</h2>
