@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I'm Karan</h1>
+<h1 align="center">Hello World! 👋 I'm KTG</h1>
 <h3 align="center">Full-Stack Developer | Next.js Specialist | Interactive Web Experience Creator</h3>
 
 <p align="center">
