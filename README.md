@@ -19,7 +19,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="780" alt="Terminal intro: KTG, Full-Stack Developer and Data & AI Engineer"/>
+  <img src="terminal.svg" width="780" alt="Terminal intro: KTG, Full-Stack Developer and Data & AI Engineer"/>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Focus-GenAI%20%26%20RAG-F472B6?style=for-the-badge&labelColor=0f172a"/>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 <!-- ============================ TECH STACK ============================ -->
 <h2 align="center">🛠️ Tech Stack</h2>
